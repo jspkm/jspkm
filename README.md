@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Joseph 👋
+
+##### 📍 Palo Alto, CA | Moody's RMS | plus weekend projects
 
 <!--
 **jspkm/jspkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
