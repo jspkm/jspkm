@@ -1,7 +1,13 @@
 ## Hi, I'm Joseph 👋
 
 ##### 📍 Palo Alto, CA | Moody's RMS | plus weekend projects
+![](https://img.shields.io/badge/Google-Gemini-4285F4?logo=google&logoColor=white)
+![](https://img.shields.io/badge/Anthropic-Claude-000000?logo=anthropic&logoColor=white)
+![](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
+## Current projects
+- 💳 [LinexProfiler](https://linexprofiler.firebaseapp.com) - Transaction analysis quant agent for loyalty & rewards universe
 <!--
 **jspkm/jspkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
