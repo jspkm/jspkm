@@ -1,10 +1,12 @@
 ## Hi, I'm Joseph 👋
 
 ##### 📍 Palo Alto, CA | Moody's RMS | plus weekend projects
-![](https://img.shields.io/badge/Google-Gemini-4285F4?logo=google&logoColor=white)
-![](https://img.shields.io/badge/Anthropic-Claude-000000?logo=anthropic&logoColor=white)
-![](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic-Claude-000000?logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000?logo=cursor&logoColor=white&labelColor=000)
+![Antigravity](https://img.shields.io/badge/🛰️-Antigravity-6E57E0)
 
 ## Current projects
 - 💳 [LinexProfiler](https://linexprofiler.firebaseapp.com) - Transaction analysis quant agent for loyalty & rewards universe
