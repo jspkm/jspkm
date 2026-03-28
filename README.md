@@ -9,7 +9,7 @@
 ![Antigravity](https://img.shields.io/badge/🛰️-Antigravity-6E57E0)
 
 ## Current projects
-- 💳 [LinexProfiler](https://linexprofiler.firebaseapp.com) - Transaction analysis quant agent for loyalty & rewards universe
+- 💳 [linex-terminal](https://linexprofiler.firebaseapp.com) - Transaction analysis quant agent for loyalty & rewards universe
 <!--
 **jspkm/jspkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
